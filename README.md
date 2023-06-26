@@ -1,14 +1,6 @@
 <!---
 Esse README foi criado com https://profilinator.rishav.dev/
 -->
-
-## Olá 👋, Meu nome é Christopher Costa!  
-  
-
-<a href="https://github.com/ChrisKryon" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
 </td><td valign="top" width="50%">
 
 <div align="center">
