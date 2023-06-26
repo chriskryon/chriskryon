@@ -9,25 +9,6 @@ Esse README foi criado com https://profilinator.rishav.dev/
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-  
-
-
-
-### Bom te ver por aqui!  
-Estou estudando para ser um desenvolvedor full stack, mas no momento, minha experiência está focada em desenvolvimento back-end.
-
-Estou em busca de uma oportunidade de voluntariado para adquirir mais experiências do que um curso ou projeto pessoal pode proporcionar.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 Em busca de uma oportunidade de voluntariado  
-
-
 </td><td valign="top" width="50%">
 
 <div align="center">
