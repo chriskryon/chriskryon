@@ -110,8 +110,7 @@ Esse README foi criado com https://profilinator.rishav.dev/
 <br/>  
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chriskryon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chriskryon&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=chriskryon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chriskryon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
@@ -119,10 +118,7 @@ Esse README foi criado com https://profilinator.rishav.dev/
 
 <!-- Contador de Visitas -->
 ![Profile views counter](https://komarev.com/ghpvc/?username=chriskryon&&style=flat-square)  
-
-<br/>  
-<br />
-
+<br/> 
 <!-- Fim -->
 
 ----
