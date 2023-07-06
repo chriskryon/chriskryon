@@ -109,6 +109,15 @@ Esse README foi criado com https://profilinator.rishav.dev/
 
 <br/>  
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+![](https://github-readme-stats.vercel.app/api?username=chriskryon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</td><td valign="top" width="50%">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chriskryon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</td></tr></table>  
+
+<br/>  
+
 <!-- Contador de Visitas -->
 ![Profile views counter](https://komarev.com/ghpvc/?username=chriskryon&&style=flat-square)  
 
