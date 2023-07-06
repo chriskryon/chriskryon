@@ -42,16 +42,7 @@ Esse README foi criado com https://profilinator.rishav.dev/
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 </div>
-</td></tr></table>  
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=chriskryon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriskryon&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
-
-<br/>  
+</td></tr></table> 
 
 <!-- Quero aprender mais -->
 ## Gostaria de aprender e aperfeiçoar
@@ -104,6 +95,16 @@ Esse README foi criado com https://profilinator.rishav.dev/
 </td></tr></table>  
 
 <!-- Fim -->
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=chriskryon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriskryon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>  
+
+<br/>  
 
 <!-- Contador de Visitas -->
 ![Profile views counter](https://komarev.com/ghpvc/?username=chriskryon&&style=flat-square)  
