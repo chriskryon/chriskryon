@@ -7,6 +7,11 @@ Esse README foi criado com https://profilinator.rishav.dev/
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
+## 👨‍💻 About me:
+- Tenho experiência com Desenvolvimento Back-end, já tive contato com Java, Python e Javascript, no momento estou focando mais em Javascript. Também estou aprendendo HTML, CSS e React Native para ter a base básica em Front-end.
+- Meu objetivo é me especializar na área de back-end.
+- Abaixo estão as tecnologias que tenho experiência e também as que desejo aprender e/ou aperfeiçoar.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christophercs) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chriskryon) 
 
