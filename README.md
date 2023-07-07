@@ -7,6 +7,9 @@ Esse README foi criado com https://profilinator.rishav.dev/
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
+## 💼 Projetos:
+- Neste site estão alguns projetos que gostei bastante de ter desenvolvido.
+
 ## 👨‍💻 About me:
 - Tenho experiência com Desenvolvimento Back-end, já tive contato com Java, Python e Javascript, no momento estou focando mais em Javascript. Também estou aprendendo HTML, CSS e React Native para ter a base básica em Front-end.
 - Meu objetivo é me especializar na área de back-end.
