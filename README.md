@@ -7,16 +7,19 @@ Esse README foi criado com https://profilinator.rishav.dev/
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-## 💼 Projetos:
-- Neste site estão alguns projetos que gostei bastante de ter desenvolvido.
+## 💼 Projects:
 
-## 👨‍💻 About me:
-- Tenho experiência com Desenvolvimento Back-end, já tive contato com Java, Python e Javascript, no momento estou focando mais em Javascript. Também estou aprendendo HTML, CSS e React Native para ter a base básica em Front-end.
-- Meu objetivo é me especializar na área de back-end.
-- Abaixo estão as tecnologias que tenho experiência e também as que desejo aprender e/ou aperfeiçoar.
+- Celestial Replay ([https://github.com/chriskryon/celestial-replay](https://github.com/chriskryon/celestial-replay)), a video replay tool built with Next.js and NextUI. This project was instrumental in deepening my understanding of Next.js and its capabilities.
 
-## 🌐 Socials:
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chriskryon) 
+## 👨‍💻 About Me:
+
+- My primary expertise lies in Back-end Development, with a strong focus on JavaScript and TypeScript. 
+- I also possess a working knowledge of React and Next.js, enabling me to contribute effectively to full-stack development projects.
+- Additionally, I have some experience with Java and Python, particularly in the context of data processing.
+
+## 🚀 Career Goals:
+
+- My objective is to specialize further in the Back-end domain, continuously expanding my skill set and tackling challenging projects.
 
 # 💻 Tech Stack - Have Experience:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
