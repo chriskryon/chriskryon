@@ -9,7 +9,7 @@ Esse README foi criado com https://profilinator.rishav.dev/
 
 ## 💼 Projects:
 
-- Celestial Replay ([https://github.com/chriskryon/celestial-replay](https://github.com/chriskryon/celestial-replay)), a video replay tool built with Next.js and NextUI. This project was instrumental in deepening my understanding of Next.js and its capabilities.
+- [Celestial Replay](https://github.com/chriskryon/celestial-replay), a video replay tool built with Next.js and NextUI. This project was instrumental in deepening my understanding of Next.js and its capabilities.
 
 ## 👨‍💻 About Me:
 
