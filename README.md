@@ -11,6 +11,7 @@ Esse README foi criado com https://profilinator.rishav.dev/
 
 - [Celestial Replay](https://github.com/chriskryon/celestial-replay), a video replay tool built with Next.js and NextUI. This project was instrumental in deepening my understanding of Next.js and its capabilities.
 - [AlexandriteNFT](https://github.com/chriskryon/alexandrite-nft-token): This project served as a learning experience for exploring user authentication by Supabase and integration with Smart Contract (not available in this repo). It's an NFT page concept built with Next.js and leverages Supabase, also NextIntl for Internationalization.
+- [Fastify User-Products API](https://github.com/chriskryon/rest-api-fastify-prisma): A Fastify-based API for user and product management, featuring Prisma for ORM, Zod for validation, JWT authentication, Swagger docs, and TypeScript for type safety.
 
 ## 👨‍💻 About Me:
 
