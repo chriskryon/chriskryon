@@ -10,6 +10,7 @@ Esse README foi criado com https://profilinator.rishav.dev/
 ## 💼 Projects:
 
 - [Celestial Replay](https://github.com/chriskryon/celestial-replay), a video replay tool built with Next.js and NextUI. This project was instrumental in deepening my understanding of Next.js and its capabilities.
+- [Daily Diet API](https://github.com/chriskryon/rocketseat-ignite-nodejs-files/tree/main/02-challenge): A RESTful API built with Node.js and Fastify for managing daily diet records. This project was developed as part of the Rocketseat Ignite program and focuses on user authentication, data validation with Zod, and database management using Knex and SQLite. It includes features like user creation, meal tracking, and user-specific metrics.
 - [AlexandriteNFT](https://github.com/chriskryon/alexandrite-nft-token): This project served as a learning experience for exploring user authentication by Supabase and integration with Smart Contract (not available in this repo). It's an NFT page concept built with Next.js and leverages Supabase, also NextIntl for Internationalization.
 - [Fastify User-Products API](https://github.com/chriskryon/rest-api-fastify-prisma): A Fastify-based API for user and product management, featuring Prisma for ORM, Zod for validation, JWT authentication, Swagger docs, and TypeScript for type safety.
 
